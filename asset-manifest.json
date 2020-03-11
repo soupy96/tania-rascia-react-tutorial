@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.71bd5e9e.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.dc57e934.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.dc57e934.chunk.js.map",
-    "runtime-main.js": "/react-tutorial/static/js/runtime-main.59791939.js",
-    "runtime-main.js.map": "/react-tutorial/static/js/runtime-main.59791939.js.map",
-    "static/js/2.22b8f73d.chunk.js": "/react-tutorial/static/js/2.22b8f73d.chunk.js",
-    "static/js/2.22b8f73d.chunk.js.map": "/react-tutorial/static/js/2.22b8f73d.chunk.js.map",
-    "index.html": "/react-tutorial/index.html",
-    "precache-manifest.c9a9fa18bd628844e8d7dedb50a8168a.js": "/react-tutorial/precache-manifest.c9a9fa18bd628844e8d7dedb50a8168a.js",
-    "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.71bd5e9e.chunk.css.map": "/react-tutorial/static/css/main.71bd5e9e.chunk.css.map",
-    "static/js/2.22b8f73d.chunk.js.LICENSE.txt": "/react-tutorial/static/js/2.22b8f73d.chunk.js.LICENSE.txt"
+    "main.css": "/tania-rascia-react-tutorial.github.io/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/tania-rascia-react-tutorial.github.io/static/js/main.dc57e934.chunk.js",
+    "main.js.map": "/tania-rascia-react-tutorial.github.io/static/js/main.dc57e934.chunk.js.map",
+    "runtime-main.js": "/tania-rascia-react-tutorial.github.io/static/js/runtime-main.92d1a2f7.js",
+    "runtime-main.js.map": "/tania-rascia-react-tutorial.github.io/static/js/runtime-main.92d1a2f7.js.map",
+    "static/js/2.22b8f73d.chunk.js": "/tania-rascia-react-tutorial.github.io/static/js/2.22b8f73d.chunk.js",
+    "static/js/2.22b8f73d.chunk.js.map": "/tania-rascia-react-tutorial.github.io/static/js/2.22b8f73d.chunk.js.map",
+    "index.html": "/tania-rascia-react-tutorial.github.io/index.html",
+    "precache-manifest.17a4060d115210dc41698e6e5f9e9ae2.js": "/tania-rascia-react-tutorial.github.io/precache-manifest.17a4060d115210dc41698e6e5f9e9ae2.js",
+    "service-worker.js": "/tania-rascia-react-tutorial.github.io/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/tania-rascia-react-tutorial.github.io/static/css/main.71bd5e9e.chunk.css.map",
+    "static/js/2.22b8f73d.chunk.js.LICENSE.txt": "/tania-rascia-react-tutorial.github.io/static/js/2.22b8f73d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.59791939.js",
+    "static/js/runtime-main.92d1a2f7.js",
     "static/js/2.22b8f73d.chunk.js",
     "static/css/main.71bd5e9e.chunk.css",
     "static/js/main.dc57e934.chunk.js"
